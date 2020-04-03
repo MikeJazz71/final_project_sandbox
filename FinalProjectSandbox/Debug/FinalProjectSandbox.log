@@ -1,0 +1,4 @@
+﻿  FinalProjectSandbox.cpp
+c:\users\big_j\source\repos\finalprojectsandbox\finalprojectsandbox\finalprojectsandbox.cpp(147): warning C4715: 'nQueenSol': not all control paths return a value
+c:\users\big_j\source\repos\finalprojectsandbox\finalprojectsandbox\finalprojectsandbox.cpp(135): warning C4715: 'safeQueen': not all control paths return a value
+  FinalProjectSandbox.vcxproj -> C:\Users\big_j\source\repos\FinalProjectSandbox\Debug\FinalProjectSandbox.exe
